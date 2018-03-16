@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+info
 
-### More Information
+### about this blog
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm hoping to use this space as a repository for some of the daily sysadmin challenges i run into.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
